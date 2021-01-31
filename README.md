@@ -11,7 +11,8 @@ This project consists in implementing a mini C compiler using lex and yacc.
 
 ### **Phases**
 1. **`DONE`** Lexical analyser
-2.  **`DONE`** Parser 
+2.  **`DONE`** Parser
+3. **`DONE`** Latex Report (made in portuguese)
 
 
 ### **Parser Specifications**
