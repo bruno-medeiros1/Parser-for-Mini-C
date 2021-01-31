@@ -1,4 +1,4 @@
-# Parser-for-Mini-C-Language
+# Parser for Mini C Language
 
 This project consists in implementing a mini C compiler using lex and yacc.
 
