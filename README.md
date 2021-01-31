@@ -31,6 +31,6 @@ The syntactic analyser should parse programs that contain:
 ### **Observations**
 
 1. ***The report file was written in portuguese as so the comments in the .yac and .l files.***
-2- ***The main.c file contains an example code written in naive C (simplistic C) where it contains 3 errors that will be detected by the parser when executed.***
+2. ***The main.c file contains an example code written in naive C (simplistic C) where it contains 3 errors that will be detected by the parser when executed.***
 
 Thanks for reading! :smile:
