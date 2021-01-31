@@ -30,4 +30,4 @@ The syntactic analyser should parse programs that contain:
 
 ### **Observations**
 
-1. ***The report was writted in portuguese as so the comments in the .yac and .l files***
+1. ***The report file was written in portuguese as so the comments in the .yac and .l files***
