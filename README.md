@@ -27,6 +27,7 @@ The syntactic analyser should parse programs that contain:
 - Operators: **<=,> =, == ,! =, <,>**
 - Comments: text between  **/ ∗ and ∗ /**
 
+**It can also detected multiple errors in multiple lines and tell which **token** is missing.**
 
 ### **Observations**
 
