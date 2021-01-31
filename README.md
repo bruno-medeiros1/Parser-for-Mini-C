@@ -1,8 +1,8 @@
-# Parser for Mini C Language
+# Parser for Mini C Language :computer:
 
 This project consists in implementing a mini C compiler using lex and yacc.
 
-### **Team Members**
+### **Team Members** :adult:	
 
 1. Bruno Medeiros
 2. Joel Pinto -> **GitHub Account:** https://github.com/Fockester
