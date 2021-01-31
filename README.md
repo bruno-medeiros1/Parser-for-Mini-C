@@ -12,7 +12,7 @@ This project consists in implementing a mini C compiler using lex and yacc
 1. **`DONE`** Lexical analyser
 2.  **`DONE`** Parser 
 
-###**Parser Specifications**
+### **Parser Specifications**
 
 The syntactic analyser should parse programs that contain:
 
