@@ -12,7 +12,7 @@ This project consists in implementing a mini C compiler using lex and yacc.
 ### **Phases**
 1. **`DONE`** Lexical analyser
 2.  **`DONE`** Parser
-3. **`DONE`** Latex Report (made in portuguese)
+3. **`DONE`** Latex Report
 
 
 ### **Parser Specifications**
@@ -26,3 +26,8 @@ The syntactic analyser should parse programs that contain:
 - Other commands: **#include**
 - Operators: **<=,> =, == ,! =, <,>**
 - Comments: text between  **/ ∗ and ∗ /**
+
+
+### **Observations**
+
+1. ***The report was writted in portuguese as so the comments in the .yac and .l files***
